@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">The Reader</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="String_Gallery">Choose From Gallery</string>
+    <string name="string_photo">Tanke a Photo</string>
+</resources>
